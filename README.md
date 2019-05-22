@@ -9,3 +9,14 @@ This repository holds the sources for http://docs.thevirtualbrain.org
 - For API documentation and live demos, have a look here: http://docs.thevirtualbrain.org
 - A public mailing list for users of The Virtual Brain can be joined and followed using: tvb-users@googlegroups.com
 - Raw demo IPython Notebooks can be found under: https://github.com/the-virtual-brain/tvb-documentation/tree/master/demos
+
+
+# LabNotebook
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/JohnGriffiths/tvb-documentation/enh_binderconfig)
+
+
+
+
+
+

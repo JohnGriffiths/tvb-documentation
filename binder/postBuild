@@ -1,2 +1,6 @@
 git clone https://github.com/the-virtual-brain/tvb-library
 git clone https://github.com/the-virtual-brain/tvb-data
+cd tvb-library
+git checkout py3
+cd ..
+

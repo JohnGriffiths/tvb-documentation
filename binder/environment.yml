@@ -1,0 +1,15 @@
+channels:
+    - conda-forge
+dependencies:
+    - python=2.7
+    - numpy
+    - matplotlib
+    - pandas
+    - numba
+    - numexpr
+    - cython     
+    - scipy
+    - bokeh
+    - rise
+    - pip:
+        - jupyter-contrib-nbextensions

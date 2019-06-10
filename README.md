@@ -11,8 +11,6 @@ This repository holds the sources for http://docs.thevirtualbrain.org
 - Raw demo IPython Notebooks can be found under: https://github.com/the-virtual-brain/tvb-documentation/tree/master/demos
 
 
-# LabNotebook
-
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/JohnGriffiths/tvb-documentation/enh_binderconfig)
 
 

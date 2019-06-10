@@ -1,6 +1,7 @@
 git clone https://github.com/the-virtual-brain/tvb-library
 git clone https://github.com/the-virtual-brain/tvb-data
 cd tvb-library
-git checkout py3
+export PYTHONPATH=$PWD:$PYTHONPATH
+cd ../tvb-data
+export PYTHONPATH=$PWD:$PYTHONPATH
 cd ..
-

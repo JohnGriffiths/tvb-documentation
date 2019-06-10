@@ -5,7 +5,6 @@ export PYTHONPATH=$PWD:$PYTHONPATH
 cd ../tvb-data
 export PYTHONPATH=$PWD:$PYTHONPATH
 cd ..
-
 echo "export PYTHONPATH=/home/jovyan/tvb-library:"\$"PYTHONPATH" >> ~/.bashrc
 echo "export PYTHONPATH=/home/jovyan/tvb-data:"\$"PYTHONPATH" >> ~/.bashrc
 bash
